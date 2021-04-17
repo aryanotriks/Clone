@@ -241,7 +241,6 @@ def pilih_login():
 	        os.system('xdg-open https://www.facebook.com/sayyed.302')
 	        login()
         elif peak =="5":
-		os.system clear
 		print """
                    ___         _           _   
 / \_/ \           |  _ \      ( )         ( )_ 
